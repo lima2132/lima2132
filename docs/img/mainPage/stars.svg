@@ -1,0 +1,12 @@
+<svg width="120.000000" height="20.000000" viewBox="0 0 120 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<circle cx="110.000000" cy="10.000000" r="9.500000" stroke="#FFCA42" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<path d="M110 20C107.805 20 105.773 19.2908 104.123 18.0891C102.347 16.8 101.12 15.0322 100.491 13.0901C99.8115 11.0024 99.8584 8.85156 100.491 6.91064C101.168 4.82227 102.47 3.10962 104.123 1.91138C105.898 0.619629 107.958 -0.000488281 110 0L110 10L110 20Z" fill="#FFCA42" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<circle cx="85.000000" cy="10.000000" r="10.000000" fill="#FFCA42" fill-opacity="1.000000"/>
+	<circle cx="60.000000" cy="10.000000" r="10.000000" fill="#FFCA42" fill-opacity="1.000000"/>
+	<circle cx="35.000000" cy="10.000000" r="10.000000" fill="#FFCA42" fill-opacity="1.000000"/>
+	<circle cx="10.000000" cy="10.000000" r="10.000000" fill="#FFCA42" fill-opacity="1.000000"/>
+</svg>
